@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(-40deg, rgba(77, 77, 222, 0.656), white);
+    width: 800px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: scroll;
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: Georgia;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(8, 0, 255);
+    font-size: 30px;
+    font-family: Arial;
+}
+
+ul {
+    border: 5px solid blue;
+    height: 60px;
+    border-radius: 5%;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 30px;
+
+
+}
+
+p, li {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.titre1 {
+    background-color: black;
+    position: fixed;
+    margin: 0px auto;
+}
+
+.navigation {
+    width: 100px;
+    top: 100px;
+}
+
+.contact-button {
+    margin : 0px auto;
+}
